@@ -1,0 +1,1 @@
+﻿sc.exe create WorkerServiceDemo binpath= C:\Users\aktas\Desktop\Demos\workerserviceDemo\WorkerServiceDemo.exe start= auto

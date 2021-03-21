@@ -1,0 +1,19 @@
+2021-03-21 22:56:28.256 +03:00 [INF] Startimg up the service
+2021-03-21 22:56:33.926 +03:00 [INF] The website is up. Status code OK
+2021-03-21 22:56:38.996 +03:00 [INF] The website is up. Status code OK
+2021-03-21 22:56:44.058 +03:00 [INF] The website is up. Status code OK
+2021-03-21 22:56:49.089 +03:00 [INF] The website is up. Status code OK
+2021-03-21 22:56:54.218 +03:00 [INF] The website is up. Status code OK
+2021-03-21 22:56:59.288 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:02:45.205 +03:00 [INF] Startimg up the service
+2021-03-21 23:08:36.520 +03:00 [INF] Startimg up the service
+2021-03-21 23:08:41.781 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:08:46.915 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:08:51.957 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:08:57.031 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:09:02.090 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:09:07.151 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:09:12.190 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:09:17.239 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:09:22.292 +03:00 [INF] The website is up. Status code OK
+2021-03-21 23:09:27.336 +03:00 [INF] The website is up. Status code OK
